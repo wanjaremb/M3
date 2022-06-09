@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+From Feature branch
+=======
+NEW changes
+>>>>>>> master
